@@ -28,7 +28,7 @@ import java.io.File;
  * Notes by Erik Babu: In this class, the majority of the code has not been
  * written by me. However, I have annotated most of the lines of code, and it
  * should make sense how it works if you have read all the contents of our
- * website. I have also changed some of the variable values to see if I can
+ * website. I have also changed some of the variables to see if I can
  * improve the accuracy of the image classification. This class trains the
  * network
  * Note: This must be run before trying the TestYourOwnImage class.

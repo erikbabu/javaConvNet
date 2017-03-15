@@ -75,22 +75,18 @@ public class TestYourOwnImage {
     log.info("*********TEST YOUR IMAGE AGAINST SAVED NETWORK********");
 
     // FileChose is a string we will need a file
-
     File file = new File(filechose);
 
     // Use NativeImageLoader to convert to numerical matrix
-
     NativeImageLoader loader = new NativeImageLoader(height, width, channels);
 
     // Get the image into an INDarray
-
     INDArray image = loader.asMatrix(file);
 
     // 0-255
     // 0-1
     DataNormalization scaler = new ImagePreProcessingScaler(0, 1);
     scaler.transform(image);
-    // Pass through to neural Net
 
     INDArray output = model.output(image);
 
@@ -100,10 +96,10 @@ public class TestYourOwnImage {
     int prediction = 0;
     float predictionVal = 0;
     float[] probabilities = new float[10];
-    for (int i = 0; i < 9; i++) {
+    for (int i = 0; i <= 9; i++) {
       probabilities[i] = output.getFloat(0, i);
     }
-    for (int i = 0; i < 9; i++) {
+    for (int i = 0; i <= 9; i++) {
       if (probabilities[i] > predictionVal) {
         prediction = i;
         predictionVal = probabilities[i];
@@ -117,6 +113,5 @@ public class TestYourOwnImage {
     System.out.println("The Neural Net predicts, based on the training it " +
         "received in the LeNetCNN class : " + prediction);
   }
-
 
 }

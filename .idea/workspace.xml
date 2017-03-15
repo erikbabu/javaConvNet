@@ -1,7 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52217de8-7d74-4da4-b442-2b1d7355b273" name="Default" comment="" />
+    <list default="true" id="87fecf02-9655-470e-86a7-fc69dc176833" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javaConvNet/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_google_code_findbugs_jsr305_2_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_google_inject_guice_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_twelvemonkeys_imageio_imageio_bmp_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_twelvemonkeys_imageio_imageio_psd_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_twelvemonkeys_imageio_imageio_tiff_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_3_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_akka_akka_cluster_2_11_2_3_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_akka_akka_persistence_experimental_2_11_2_3_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_akka_akka_remote_2_11_2_3_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_config_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_netty_netty_http_pipelining_1_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_play_build_link_2_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_play_play_2_11_2_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_play_play_exceptions_2_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_play_play_java_2_11_2_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_play_play_json_2_11_2_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_play_play_netty_server_2_11_2_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__com_typesafe_play_play_netty_utils_2_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__io_netty_netty_3_10_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__it_unimi_dsi_fastutil_6_5_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__jfree_jcommon_1_0_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__jfree_jfreechart_1_0_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__junit_junit_4_8_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_apache_commons_commons_compress_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_apache_commons_commons_lang3_3_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_artoolkitplus_2_3_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_hdf5_1_10_0_patch1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_hdf5_linux_ppc64le_1_10_0_patch1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_hdf5_linux_x86_64_1_10_0_patch1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_hdf5_macosx_x86_64_1_10_0_patch1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_hdf5_windows_x86_64_1_10_0_patch1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_leptonica_linux_x86_64_1_73_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_leptonica_macosx_x86_64_1_73_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_leptonica_platform_1_73_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_libdc1394_2_2_4_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_libfreenect_0_5_3_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_librealsense_1_9_6_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_openblas_0_2_19_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_openblas_android_arm_0_2_19_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_openblas_android_x86_0_2_19_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_openblas_linux_ppc64le_0_2_19_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_openblas_macosx_x86_64_0_2_19_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_openblas_platform_0_2_19_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_android_x86_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_linux_armhf_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_linux_x86_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_linux_x86_64_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_macosx_x86_64_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_platform_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacpp_presets_opencv_windows_x86_3_1_0_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_bytedeco_javacv_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_datavec_datavec_api_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_datavec_datavec_data_codec_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_datavec_datavec_data_image_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_deeplearning4j_deeplearning4j_modelimport_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_deeplearning4j_deeplearning4j_nlp_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_deeplearning4j_deeplearning4j_nn_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_deeplearning4j_deeplearning4j_ui_2_11_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_deeplearning4j_deeplearning4j_ui_model_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_linux32_1_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_linux64_1_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_osx_1_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_win32_1_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_iq80_leveldb_leveldb_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_jetbrains_kotlin_kotlin_runtime_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_nd4j_nd4j_base64_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_nd4j_nd4j_buffer_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_nd4j_nd4j_common_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_nd4j_nd4j_jackson_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_nd4j_nd4j_native_linux_x86_64_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_nd4j_nd4j_native_macosx_x86_64_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_nd4j_nd4j_native_windows_x86_64_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_reflections_reflections_0_9_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_scala_stm_scala_stm_2_11_0_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libraries/Maven__org_yaml_snakeyaml_1_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dl4j-examples.iml" afterPath="$PROJECT_DIR$/dl4j-examples.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +128,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LeNetCNN.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LeNetCNN.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LeNetCNN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,27 +140,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestYourOwnImage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestYourOwnImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="184" column="38" lean-forward="false" selection-start-line="184" selection-start-column="38" selection-end-line="184" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -80,8 +172,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,53 +198,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl4j-examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaConvNet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl4j-examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaConvNet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="settings.editor.splitter.proportion" value="0.22569615" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TestYourOwnImage">
-    <configuration default="false" name="TestYourOwnImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.LeNetCNN">
+    <configuration default="false" name="LeNetCNN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TestYourOwnImage" />
+      <option name="MAIN_CLASS_NAME" value="LeNetCNN" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -372,11 +433,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestYourOwnImage" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LeNetCNN" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestYourOwnImage" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LeNetCNN" />
       </list>
     </recent_temporary>
   </component>
@@ -385,17 +446,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="52217de8-7d74-4da4-b442-2b1d7355b273" name="Default" comment="" />
-      <created>1489536280956</created>
+      <changelist id="87fecf02-9655-470e-86a7-fc69dc176833" name="Default" comment="" />
+      <created>1489545893772</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1489536280956</updated>
+      <updated>1489545893772</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="122" y="45" width="3078" height="1755" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -406,13 +467,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -431,9 +492,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -443,27 +502,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/LeNetCNN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestYourOwnImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="184" column="38" lean-forward="false" selection-start-line="184" selection-start-column="38" selection-end-line="184" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -507,7 +550,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
